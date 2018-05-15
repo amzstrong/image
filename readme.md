@@ -13,4 +13,23 @@ $obj->scale(200, 400)->outPut("./kobe4.png");//缩放
 
 ```
 注意:可以保存任意后缀名图片格式
+
+#### 原图
 <img src=https://raw.githubusercontent.com/amzstrong/image/master/kobe.jpeg>
+
+
+#### 裁剪后图
+<img src=https://raw.githubusercontent.com/amzstrong/image/master/kobe1.png>
+
+
+#### 圆角图
+<img src=https://raw.githubusercontent.com/amzstrong/image/master/kobe2.png>
+
+
+
+#### 旋转
+<img src=https://raw.githubusercontent.com/amzstrong/image/master/kobe3.png>
+
+
+#### 缩放
+<img src=https://raw.githubusercontent.com/amzstrong/image/master/kobe4.png>
