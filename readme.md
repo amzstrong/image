@@ -1,6 +1,7 @@
-##一个基于gd库,方便处理图片的二次封装
+# 一个基于gd库,方便处理图片的二次封装
 
-###用法如下
+
+### 用法如下
 
 ```
 $testImg = __DIR__ . '/kobe.jpeg';
@@ -12,3 +13,4 @@ $obj->scale(200, 400)->outPut("./kobe4.png");//缩放
 
 ```
 注意:可以保存任意后缀名图片格式
+<img src=https://raw.githubusercontent.com/amzstrong/image/master/kobe.jpeg>
